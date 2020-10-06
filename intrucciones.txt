@@ -1,0 +1,16 @@
+#Instrucciones de uso de Black_Cover(rev.1)
+
+Esta Herramienta uso la Suplantacion de Correos electronico 
+como //@gmail.com//
+Proyecto 2020-2021 by Osososo
+Github:https://github.com/oscarsanchezt
+
+Ejemplos a usar para el buen funcionamiento de la herramienta.
+-Nombre a suplantar: Support.Telefonica
+-Correo a suplantar: Soporte_Telefonica@gmail.com
+-Correo Victima: XXXXXX@gmail.com
+-Asunto: Cellphone soporte
+-Mensaje: Somos la compañia X, Ha tenido problemas con ... etc
+
+Gracias por usar BlackCover
+
