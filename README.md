@@ -1,6 +1,5 @@
 # black_cover
-(USO LINUX)
-Herramienta de Suplantacion de Correo(rev1)
+Herramienta de Suplantacion de Correo(rev1) // USO IN LINUX //
 Github: https://github.com/oscarsanchezt
 Intalacion de Black Cover.
 ---------------------------
