@@ -1,7 +1,7 @@
 # black_cover
 
-<font color="green">Herramienta de Suplantacion de Correo(rev1)</font>
-<font color="red"> USO IN LINUX </font>
+<p>Herramienta de Suplantacion de Correo(rev1)</p>
+<b>USO IN LINUX</b>
 Github: https://github.com/oscarsanchezt
 Intalacion de Black Cover.
 
