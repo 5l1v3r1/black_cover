@@ -2,7 +2,7 @@
 
 <p>Herramienta de Suplantacion de Correo(rev1)</p>
 <b>USO IN LINUX</b>
-Github: https://github.com/oscarsanchezt
+<a href="https://github.com/oscarsanchezt">Github</a>
 Intalacion de Black Cover.
 
 >sudo mkdir email
