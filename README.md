@@ -23,9 +23,29 @@ Pincha aqui para ir al menu: <a href="https://github.com/oscarsanchezt">Github</
 
 >sudo chmod 777 black_cover.sh
 
->sudo bash black_cover.sh
+>sudo chmod 777 black_cover.sh
 
+## Instalación: 
 
+```bash
+# Actualice su lista de paquetes
+$ sudo apt update
+
+# directorio de alojamiento
+$ sudo mkdir email
+
+# Entre al repositorio
+$ cd black_cover
+
+# Permisos
+$ sudo chmod 777 black_cover.sh
+
+# Inicie Black Cover
+$ sudo bash black_cover.sh
+
+# Para Salir
+$ Ctrl+c
+```
 
  <b>leerse cat intrucciones.txt para ver los ejemplos</b>
  <br>
