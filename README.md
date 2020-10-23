@@ -3,10 +3,10 @@
 <p>Herramienta de Suplantacion de Correo(rev1)</p>
 <b>USO IN LINUX</b>
 <br>
-Pincha aqui para ir al menu<a href="https://github.com/oscarsanchezt">Github</a>
+Pincha aqui para ir al menu: <a href="https://github.com/oscarsanchezt">Github</a>
 <br>
 Intalacion de Black Cover.
-
+<br>
 >sudo mkdir email
 
 >cd email
