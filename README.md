@@ -35,8 +35,9 @@ $ sudo bash black_cover.sh
 # Para Salir
 $ Ctrl+c
 ```
+<br>
 
- <b>leerse cat intrucciones.txt para ver los ejemplos</b>
+ ## Leerse cat intrucciones.txt para ver los ejemplos
  <br>
  <br>
  <div align='center'>
