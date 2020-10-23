@@ -14,6 +14,10 @@ Intalacion de Black Cover.
 >sudo bash black_cover.sh
 
 
- leerse cat intrucciones.txt para ver los ejemplos
- 
+ <b>leerse cat intrucciones.txt para ver los ejemplos</b>
+ <br>
+ <br>
+ <div align='center'>
+ <img src="https://i.imgur.com/hu93ECs.png">
+ </div>
  
