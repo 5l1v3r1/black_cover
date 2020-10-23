@@ -12,6 +12,8 @@
 <img src="https://i.imgur.com/hIFyaeC.png"> <img src="https://img.shields.io/badge/Python-3.7-yellow?style=for-the-badge&logo=python"></a></a>
 </p>
 <br>
+## Datos
+* Actualmente solo funciona con @gmail.com
 
 * Leerse cat intrucciones.txt para ver los ejemplos.
 
