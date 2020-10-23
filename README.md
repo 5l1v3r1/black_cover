@@ -1,7 +1,7 @@
 # black_cover
 <BR>
 <BR>
-<img src="https://i.imgur.com/GgnPDAD.png">
+<img src="https://i.imgur.com/hk2BSeE.png">
 <p align="center">
  
 ## Herramienta de Suplantacion de Correo
