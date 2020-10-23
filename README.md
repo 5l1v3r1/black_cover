@@ -12,18 +12,7 @@
 <br>
 Pincha aqui para ir al menu: <a href="https://github.com/oscarsanchezt">Github</a>
 <br>
-<h3>Intalacion de Black Cover.</h3>
-<br>
 
->sudo mkdir email
-
->cd email
-
->cd black_cover
-
->sudo chmod 777 black_cover.sh
-
->sudo chmod 777 black_cover.sh
 
 ## Instalación: 
 
