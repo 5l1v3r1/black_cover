@@ -8,6 +8,7 @@
 <br>
 <p align="center">
 <a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://i.imgur.com/oS4P9zJ.png"> <a href=""><img title="Lincencia" src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo=">
+<br>
 <img src="https://i.imgur.com/hIFyaeC.png"></a></a>
 </p>
 <br>
