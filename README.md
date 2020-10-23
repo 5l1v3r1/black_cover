@@ -1,8 +1,13 @@
 # black_cover
-
-<p>Herramienta de Suplantacion de Correo(rev1)</p>
-<b>USO IN LINUX</b>
-
+<BR>
+<BR>
+<img src="https://i.imgur.com/GgnPDAD.png">
+ 
+## Herramienta de Suplantacion de Correo
+<br>
+<p align="center">
+<a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://i.imgur.com/oS4P9zJ.png"></a>
+</p>
 <br>
 Pincha aqui para ir al menu: <a href="https://github.com/oscarsanchezt">Github</a>
 <br>
