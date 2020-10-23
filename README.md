@@ -10,8 +10,11 @@
 <a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://i.imgur.com/oS4P9zJ.png"></a>
 </p>
 <br>
-*Leerse cat intrucciones.txt para ver los ejemplos.
-*Pincha aqui para ir al menu: <a href="https://github.com/oscarsanchezt">Github</a>
+
+* Leerse cat intrucciones.txt para ver los ejemplos.
+
+* Pincha aqui para ir al menu: <a href="https://github.com/oscarsanchezt">Github</a>
+
 <br>
 
 
