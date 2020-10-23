@@ -37,10 +37,14 @@ $ Ctrl+c
 ```
 <br>
 
- ## Leerse cat intrucciones.txt para ver los ejemplos
+  ## Leerse cat intrucciones.txt para ver los ejemplos
  <br>
  <br>
+ 
  <div align='center'>
+ 
+ ## CAPTURA
+ <br>
  <img src="https://i.imgur.com/hu93ECs.png">
  </div>
  
